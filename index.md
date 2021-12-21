@@ -1,95 +1,93 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Dmytro Nazarenko
+full_name: Dmytro Nazarenko
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+# github_url: https://github.com/dmytro-nazarenko-pantheon/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+  - I value **responsibility** and **professionalism** in people
+  - I try to be **helpful**
+  - *Challenges* make us better
 
 ## Personality
-
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+  - I try to be self-critical
+  - I try to support and help others
+  - I like a good joke always and everywhere, it helps me in my life
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+**How do you best receive feedback, be it positive or negative?**
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+  - Positive feedback: I like it in any way but I'm humble enough to be uncomfortable when there is too much of it
+  - Negative feedback: I always open for critic and do my best to learn from it
 
 ## Work Patterns
 
-What hours do you usually work?
+**What hours do you usually work?**
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+  - I'm always starting between 11:00 and 12:00  EET - it is about 01:00 - 02:00  PST 
+
+**When do you prefer to work alone, versus in groups?**
+
+  - I like to peer with someone to get help or provide help for some specific issue
+  - In all other cases I prefer to work alone
+
+**How do your energy levels fluctuate throughout the day?**
+
+  - I have most energy in the middle and the end of my day
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+**What should people expect from you when they reach out to you on Email, or Slack?**
 
+  - Slack is better then email, I'll respond much faster
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+**How should people best get your attention for urgent matters, during and out of your working hours?**
+
+  - Slack me, if I'm not responding during 5 minutes - call me on phone. And it is no matter is it working hours or no.
+
+**What's your relationship to work communication when not at work?**
+
+  - I'll try to help if I can, If I'll have some difficalties to communicate exactly at specific time - I'll tell about this.
+
+**What are your signs that you'd prefer to not be interrupted when at work?**
+
+  - I always open to communicate
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+**When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?**
+
+  - I'll tell that it is time to stop conversation and make a pause for consideration 
+
+**What about when you're just not having an "on" or "good" day?**
+
+  - I'll do my best to not share my bad mood with anyone 
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+ - Just ask me if I need help
+
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
-
-## Pet Peeves
-
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
-
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
-
-## Career Goals & Future Interests
-
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+ - I'm like to listen and learn more than to speak.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+ - I'm trying to be more effective in building architecture of backend systems
+
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+  - Ask me about Golang, guns and computer games:)
